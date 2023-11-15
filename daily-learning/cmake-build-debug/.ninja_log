@@ -1,0 +1,8 @@
+# ninja log v5
+1	124	7217422181744136	build.ninja	bbf45ace8f8cf018
+0	68	7217416982649765	CMakeFiles/daily_learning.dir/ceshi.c.obj	9b71aac62c29475
+7	69	7217416982649765	CMakeFiles/daily_learning.dir/library.c.obj	d40c2d49b6233c2b
+69	832	7217416990298281	libdaily_learning.a	f61080d9d212b728
+1	69	7217422246005479	CMakeFiles/daily_learning.dir/ceshi.c.obj	9b71aac62c29475
+8	70	7217422246015478	CMakeFiles/daily_learning.dir/ktzy/test1.c.obj	ada041071b8b42fd
+71	150	7217422246826124	libdaily_learning.a	28b016203e03b4cd
