@@ -1,3 +1,0 @@
-D:/github1/c++learning/cmake-build-debug/CMakeFiles/c__learning.dir
-D:/github1/c++learning/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/github1/c++learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
