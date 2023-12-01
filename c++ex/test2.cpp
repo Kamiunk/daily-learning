@@ -2,5 +2,5 @@
 using namespace std;
 main()
 {
-    cout<<"hnm"<<endl;
+    cout<<'\007'<<endl;
 }

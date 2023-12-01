@@ -1,0 +1,10 @@
+"D:\clion\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/clion/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\github1\daily-learning\daily-learning\cEasyx -B D:\github1\daily-learning\daily-learning\cEasyx\cmake-build-debug
+-- The C compiler identification is MSVC 19.37.32825.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/VS IDE/VC/Tools/MSVC/14.37.32822/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (1.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/github1/daily-learning/daily-learning/cEasyx/cmake-build-debug
